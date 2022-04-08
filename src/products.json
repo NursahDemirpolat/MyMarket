@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "title":"Sakız",
+        "price":0.5,
+        "image":"https://cdn.dsmcdn.com/mnresize/1200/1800/ty321/product/media/images/20220205/14/44914763/62263602/1/1_org_zoom.jpg"
+    },
+    {
+        "id":2,
+        "title":"Kola",
+        "price":6,
+        "image":"https://www.incillikebap.com.tr/i/l/000/0000043_kutu-kola.jpeg"
+    },
+    {
+        "id":3,
+        "title":"Motor",
+        "price":2000,
+        "image":"https://www.toysall.com.tr/Uploads/UrunResimleri/smoby-scooter-motor-pembe-721002smoby7-7-48a0.jpg"
+    },
+    {
+        "id":4,
+        "title":"Araba",
+        "price":4000,
+        "image":"https://productimages.hepsiburada.net/s/33/1500/10417706991666.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Gemi",
+        "price": 80000000,
+        "image": "https://i.ibb.co/sCbmRKV/Ekran-Resmi-2021-04-16-13-45-31.png"
+      },
+      {
+        "id": 6,
+        "title": "1 TL",
+        "price": 1,
+        "image": "https://iasbh.tmgrup.com.tr/802b79/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/1-tlnin-diger-ulke-paralari-karsisindaki-degeri/1.jpg"
+      },
+      {
+        "id": 7,
+        "title": "100 TL",
+        "price": 100,
+        "image": "https://i.ibb.co/vPpNrdb/Ekran-Resmi-2021-04-16-13-38-07.png"
+      },
+      {
+        "id": 8,
+        "title": "iPad Pro",
+        "price": 30000,
+        "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Çanta",
+        "price": 150000,
+        "image": "https://www.flowerayakkabi.com/Uploads/UrunResimleri/buyuk/beyaz-deri-sirt-cantasi-2a20.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Elmas",
+        "price": 157878777,
+        "image": "https://www.bilgiustam.com/resimler/2017/12/10841_elmas-05.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Mona Lisa",
+        "price": 2000000000,
+        "image": "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Ekmek",
+        "price": 3,
+        "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05120000/05120000-a957e2.jpg"
+      }
+]
